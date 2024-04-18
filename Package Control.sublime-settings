@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Discord Rich Presence",
+		"LSP",
+		"LSP-css",
+		"LSP-gopls",
+		"LSP-html",
+		"LSP-json",
+		"LSP-typescript",
+		"Package Control",
+		"Theme - One",
+		"Theme - Pigment",
+		"Theme - Rose Pine",
+	],
+}
